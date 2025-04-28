@@ -23,7 +23,8 @@ echo "Running Python Program (OOP Approach)"
 echo "===================================="
 
 # Run Python script
-python3 math.py
+# python3 math.py
+python math.py
 
 echo
 echo "===================================="
